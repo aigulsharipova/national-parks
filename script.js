@@ -5,4 +5,5 @@ const picture = ['grand.jpg', 'olympic.jpg', 'Yellowstone.jpg', 'yosemite.jpg', 
 let i = 0;
 next.addEventListener('click', ()=> {
   i++;
+  document.querySelector('#picture').src = picture[0];
 })
