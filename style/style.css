@@ -1,7 +1,7 @@
 h1 {
 font-family: 'Dancing Script', cursive;
 font-family: 'Lobster', cursive;
-font-size: 80px;
+font-size: 70px;
 display: flex;
 justify-content: center;
 }
@@ -21,6 +21,6 @@ body {
   color: black;
   font-family: 'Dancing Script', cursive;
   font-family: 'Lobster', cursive;
-  font-size: large;
+  font-size: 20px;
 }
 
