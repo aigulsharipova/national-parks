@@ -8,4 +8,6 @@ body {
 #picture {
   width: 500px;
 }
-
+.btn {
+  background-color: #ffeda3;
+}
