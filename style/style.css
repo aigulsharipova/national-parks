@@ -2,6 +2,10 @@ body {
   background-color: #39a9cb;
 }
 #container {
-  flex: content;
+  display: flex;
   justify-content: center;
 }
+#picture {
+  width: 500px;
+}
+
