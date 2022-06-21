@@ -6,7 +6,7 @@ display: flex;
 justify-content: center;
 }
 body {
-  background-color: #39a9cb;
+  background-color: #e7e7e7;
 }
 #container {
   display: flex;
@@ -16,7 +16,7 @@ body {
   width: 500px;
 }
 .btn {
-  background-color: #ffeda3;
+  background-color: white;
   border: none;
   color: black;
   font-family: 'Dancing Script', cursive;
