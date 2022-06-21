@@ -5,6 +5,8 @@ const photos = ['./style/grand.jpg', './style/olympic.jpg', './style/Yellowstone
 let i = 0;
 next.addEventListener('click', () => {
   i++;
+  if (i > photos.length)
+  i = 0
   document.querySelector('#picture').src = photos[i];
 })
 
