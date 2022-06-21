@@ -7,3 +7,8 @@ next.addEventListener('click', () => {
   i++;
   document.querySelector('#picture').src = photos[i];
 })
+
+back.addEventListener('click', () => {
+  i--;
+  document.querySelector('#picture').src = photos[i];
+})
